@@ -1,5 +1,4 @@
-
-#**Aprendendo Git e GitHub com NotebookLM**
+**Aprendendo Git e GitHub com NotebookLM**
 
 ---
 
