@@ -15,7 +15,9 @@ O objetivo deste caderno temático é consolidar os principais conceitos de Git 
 ## FONTES
 
 - Pro Git (2ª Edição)
-- Curso em Vídeo – Git e GitHub
+  - https://git-scm.com/book/pt-br/v2
+- Curso em Vídeo – **Git e GitHub**
+  - https://www.youtube.com/live/xEKo29OWILE?si=Y_psOBkQF6eyiepe
 - Slides em PDF do curso **Git e GitHub** – Curso em Vídeo (Gustavo Guanabara).
 
 ---
@@ -76,8 +78,8 @@ As Branches (ou ramificações) são como caminhos paralelos no seu projeto. Ela
 
 ## DIFICULDADES ENCONTRADAS (CICATRIZES)
 
-- O primeiro prompt ("explique Git.") o modelo respondeu corretamente, porém foi utilizado muitos conceitos técnicos para um iniciante como snapshot, SHA-1 e Staging Area sem uma explicação simplificada.
-- Ao reformular melhor o prompt utilizando a engenharia de prompts o modelo retornou a resposta em uma linguagem mais simples e exemplos do cotidiano , o NotebookLM forneceu uma resposta mais didatica de facil de compreendimento.
+- O primeiro prompt ("explique Git.") o modelo respondeu corretamente, porém utilizou muitos conceitos técnicos para um iniciante como snapshot, SHA-1 e Staging Area sem uma explicação simplificada.
+- Ao reformular melhor o prompt utilizando a engenharia de prompts o modelo retornou a resposta em uma linguagem mais simples e exemplos do cotidiano , o NotebookLM forneceu uma resposta mais didática de facil de compreensão.
 - O mesmo ocorreu ao estudar Branches. A primeira resposta utilizou o termo "killer feature", que não era familiar. Após pedir uma explicação sem termos complexos, a resposta ficou mais clara.
 
 ---
